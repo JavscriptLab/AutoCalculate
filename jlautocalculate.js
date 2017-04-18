@@ -1,3 +1,7 @@
+/*
+MIT License
+Copyright (c) 2017 JavscriptLab https://github.com/JavscriptLab
+*/
 (function($) {
     $.fn.jlac = function(opt, callback) {
         if ($(this).length > 0) {
